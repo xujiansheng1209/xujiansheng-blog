@@ -1,0 +1,16 @@
+import comp from "/Users/ruby/idea_demo/xujiansheng-blog/docs/.vuepress/.temp/pages/java-preparation/resume-guide.html.vue"
+const data = JSON.parse("{\"path\":\"/java-preparation/resume-guide.html\",\"title\":\"简历编写指南\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"简历编写指南\",\"description\":\"专业技能 Java基础 熟练掌握 JavaSE 基础知识，熟悉多线程与并发编程，具备良好的面向对象编程思想。熟练掌握 Java 核心知识、JUC、HashMap、斐波那契散列等，具备良好的面向对象编程思想。熟练掌握Java核心知识、JUC、HashMap、斐波拉契散列等，具有良好的面向对象编程思想 熟练掌握 Java 设计模式，如工厂、代理、模板、策略...\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://snailcoding.cn/java-preparation/resume-guide.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"蜗牛のJava宝典\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"简历编写指南\"}],[\"meta\",{\"property\":\"og:description\",\"content\":\"专业技能 Java基础 熟练掌握 JavaSE 基础知识，熟悉多线程与并发编程，具备良好的面向对象编程思想。熟练掌握 Java 核心知识、JUC、HashMap、斐波那契散列等，具备良好的面向对象编程思想。熟练掌握Java核心知识、JUC、HashMap、斐波拉契散列等，具有良好的面向对象编程思想 熟练掌握 Java 设计模式，如工厂、代理、模板、策略...\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"meta\",{\"property\":\"article:author\",\"content\":\"Mr.Xu\"}],[\"script\",{\"type\":\"application/ld+json\"},\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"Article\\\",\\\"headline\\\":\\\"简历编写指南\\\",\\\"image\\\":[\\\"\\\"],\\\"dateModified\\\":null,\\\"author\\\":[{\\\"@type\\\":\\\"Person\\\",\\\"name\\\":\\\"Mr.Xu\\\",\\\"url\\\":\\\"https://snailcoding.cn\\\"}]}\"]]},\"headers\":[{\"level\":2,\"title\":\"专业技能\",\"slug\":\"专业技能\",\"link\":\"#专业技能\",\"children\":[]},{\"level\":2,\"title\":\"工作经历\",\"slug\":\"工作经历\",\"link\":\"#工作经历\",\"children\":[]},{\"level\":2,\"title\":\"项目经历\",\"slug\":\"项目经历\",\"link\":\"#项目经历\",\"children\":[]},{\"level\":2,\"title\":\"自我评价\",\"slug\":\"自我评价\",\"link\":\"#自我评价\",\"children\":[]}],\"readingTime\":{\"minutes\":23.25,\"words\":6975},\"filePathRelative\":\"java-preparation/resume-guide.md\",\"excerpt\":\"<h2>专业技能</h2>\\n<p><strong>Java基础</strong></p>\\n<ol>\\n<li>\\n<p>熟练掌握 JavaSE 基础知识，熟悉多线程与并发编程，具备良好的面向对象编程思想。熟练掌握 Java 核心知识、JUC、HashMap、斐波那契散列等，具备良好的面向对象编程思想。熟练掌握Java核心知识、JUC、HashMap、斐波拉契散列等，具有良好的面向对象编程思想</p>\\n</li>\\n<li>\\n<p>熟练掌握 Java 设计模式，如工厂、代理、模板、策略等设计模式，并善用设计原则构建可复用代码。</p>\\n</li>\\n<li>\\n<p>深入理解 JVM 底层原理，熟悉 JVM 各类垃圾收集器的使用及核心参数的调优，具备一定的 JVM 调优能力。</p>\\n</li>\\n<li>\\n<p>设计模式:熟悉常用的设计模式,设计原则,理解其设计意图,构建易维护,易拓展,高灵活,可测试的代码.</p>\\n</li>\\n<li>\\n<p>熟练掌握 Java 设计模式，如工厂、代理、组合、策略等设计模式，并善用设计原则构建可复用代码。</p>\\n</li>\\n<li>\\n<p>熟练掌握Java语言基础和面向对象的思想，具备良好的编码习惯</p>\\n</li>\\n<li>\\n<p>熟练掌握集合框架，了解常用集合的原理，如ArrayList、LinkedList、HashMap等</p>\\n</li>\\n<li>\\n<p>掌握Java并发编程，如锁机制、线程池机制、AQS等</p>\\n</li>\\n<li>\\n<p>熟悉JVM的内存结构和垃圾回收机制和类加载机制</p>\\n</li>\\n<li>\\n<p>熟悉掌握 JAVA 核心知识、JUC 并发工具类的使用和原理，如线程池、原子类、ReentrantLock 阻塞队列等， 阅读过部分 JDK 源码，如 ArrayList、HashMap，熟悉 JAVA 异常处理流程。</p>\\n</li>\\n<li>\\n<p>深入理解 JVM 底层原理，熟悉 JVM 各类垃圾收集器的使用及核心参数的调优，具备一定的 JVM 调优能力。</p>\\n</li>\\n</ol>\",\"autoDesc\":true}")
+export { comp, data }
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}
